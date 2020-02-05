@@ -1,0 +1,14 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "A solidity code to send messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "atm"
+  },
+  "keywords": [
+    "inbox"
+  ],
+  "author": "atm1504",
+  "license": "ISC"
+}
