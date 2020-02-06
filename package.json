@@ -4,11 +4,17 @@
   "description": "A solidity code to send messages",
   "main": "index.js",
   "scripts": {
-    "test": "atm"
+    "test": "mocha"
   },
   "keywords": [
     "inbox"
   ],
   "author": "atm1504",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.9.0",
+    "mocha": "^7.0.1",
+    "solc": "^0.4.17",
+    "web3": "^1.0.0-beta.26"
+  }
 }
